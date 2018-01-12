@@ -1,0 +1,139 @@
+fileFormatVersion: 2
+guid: a3b67301cfe231241a48f42d39e62b25
+timeCreated: 1476653659
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: _Cell_Railing_0421
+    100002: _Cell_Railing_0422
+    100004: _Cell_Railing_0423
+    100006: _Cell_Railing_0424
+    100008: //RootNode
+    100010: pCube4236
+    100012: pCube4239
+    100014: pCube4246
+    100016: pCube4247
+    100018: pCylinder611
+    100020: pCylinder612
+    100022: pCylinder613
+    100024: pCylinder614
+    100026: polySurface1153
+    400000: _Cell_Railing_0421
+    400002: _Cell_Railing_0422
+    400004: _Cell_Railing_0423
+    400006: _Cell_Railing_0424
+    400008: //RootNode
+    400010: pCube4236
+    400012: pCube4239
+    400014: pCube4246
+    400016: pCube4247
+    400018: pCylinder611
+    400020: pCylinder612
+    400022: pCylinder613
+    400024: pCylinder614
+    400026: polySurface1153
+    2300000: _Cell_Railing_0421
+    2300002: _Cell_Railing_0422
+    2300004: _Cell_Railing_0423
+    2300006: _Cell_Railing_0424
+    2300008: pCube4236
+    2300010: pCube4239
+    2300012: pCube4246
+    2300014: pCube4247
+    2300016: pCylinder611
+    2300018: pCylinder612
+    2300020: pCylinder613
+    2300022: pCylinder614
+    2300024: polySurface1153
+    3300000: _Cell_Railing_0421
+    3300002: _Cell_Railing_0422
+    3300004: _Cell_Railing_0423
+    3300006: _Cell_Railing_0424
+    3300008: pCube4236
+    3300010: pCube4239
+    3300012: pCube4246
+    3300014: pCube4247
+    3300016: pCylinder611
+    3300018: pCylinder612
+    3300020: pCylinder613
+    3300022: pCylinder614
+    3300024: polySurface1153
+    4300000: pCube4239
+    4300002: polySurface1153
+    4300004: pCube4236
+    4300006: _Cell_Railing_0424
+    4300008: _Cell_Railing_0423
+    4300010: _Cell_Railing_0422
+    4300012: pCylinder614
+    4300014: pCylinder613
+    4300016: pCylinder612
+    4300018: pCylinder611
+    4300020: _Cell_Railing_0421
+    4300022: pCube4247
+    4300024: pCube4246
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 0
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: processed_v01
+  assetBundleName: 
+  assetBundleVariant: 

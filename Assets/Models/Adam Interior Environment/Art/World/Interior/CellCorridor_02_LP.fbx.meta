@@ -1,0 +1,136 @@
+fileFormatVersion: 2
+guid: 97202d8363ff55a4fbd244acf2ed2609
+timeCreated: 1457395073
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: CellCorridor_01_HP
+    100004: CellCorridor_01_LP
+    100006: CellCorridor_02_HP
+    100008: CellCorridor_02_LP
+    100010: CellCorridor_03_LP
+    100012: CellCorridor_OuterShell
+    100014: pCube4615
+    100016: pCube4618
+    100018: CellCorridor_02_LP_Bot
+    100020: CellCorridor_02_LP_BotSide
+    100022: CellCorridor_02_LP_Mid
+    100024: CellCorridor_02_LP_Top
+    400000: //RootNode
+    400002: CellCorridor_01_HP
+    400004: CellCorridor_01_LP
+    400006: CellCorridor_02_HP
+    400008: CellCorridor_02_LP
+    400010: CellCorridor_03_LP
+    400012: CellCorridor_OuterShell
+    400014: pCube4615
+    400016: pCube4618
+    400018: CellCorridor_02_LP_Bot
+    400020: CellCorridor_02_LP_BotSide
+    400022: CellCorridor_02_LP_Mid
+    400024: CellCorridor_02_LP_Top
+    2300000: //RootNode
+    2300002: CellCorridor_01_HP
+    2300004: CellCorridor_01_LP
+    2300006: CellCorridor_02_HP
+    2300008: CellCorridor_02_LP
+    2300010: CellCorridor_03_LP
+    2300012: CellCorridor_OuterShell
+    2300014: pCube4615
+    2300016: pCube4618
+    2300018: CellCorridor_02_LP_Bot
+    2300020: CellCorridor_02_LP_BotSide
+    2300022: CellCorridor_02_LP_Mid
+    2300024: CellCorridor_02_LP_Top
+    3300000: //RootNode
+    3300002: CellCorridor_01_HP
+    3300004: CellCorridor_01_LP
+    3300006: CellCorridor_02_HP
+    3300008: CellCorridor_02_LP
+    3300010: CellCorridor_03_LP
+    3300012: CellCorridor_OuterShell
+    3300014: pCube4615
+    3300016: pCube4618
+    3300018: CellCorridor_02_LP_Bot
+    3300020: CellCorridor_02_LP_BotSide
+    3300022: CellCorridor_02_LP_Mid
+    3300024: CellCorridor_02_LP_Top
+    4300000: CellCorridor_02_LP
+    4300002: CellCorridor_OuterShell
+    4300004: CellCorridor_01_LP
+    4300006: CellCorridor_01_HP
+    4300008: CellCorridor_02_HP
+    4300010: CellCorridor_03_LP
+    4300012: pCube4615
+    4300014: pCube4618
+    4300016: CellCorridor_02_LP_Top
+    4300018: CellCorridor_02_LP_Mid
+    4300020: CellCorridor_02_LP_BotSide
+    4300022: CellCorridor_02_LP_Bot
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 0
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: processed_v01
+  assetBundleName: 
+  assetBundleVariant: 
