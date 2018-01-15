@@ -7,7 +7,7 @@
 
 Simple demo showing examples of use of Timeline, Cinemachine, GI and PPv2 in the production of a short film.<br>
 Demo originally produced for talk "Unity for Films" for BETT London 2018.<br>
-Featured showcased are:
+Features shown are:
 
 * Timeline
 * Cinemachine
