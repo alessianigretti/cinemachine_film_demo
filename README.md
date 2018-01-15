@@ -1,6 +1,8 @@
 # **Cinemachine Film Demo** #
 **Disclaimer: This project can be distributed externally.**    
 
+[![Cinemachine Film Demo](https://i.imgur.com/XuoNzfx.png)](https://www.youtube.com/watch?v=PdajwIvWodQ)
+
 **Description**
 
 Simple demo showing examples of use of Timeline, Cinemachine, GI and PPv2 in the production of a short film.<br>
