@@ -20,7 +20,7 @@ Features shown are:
 
 **Documentation**
 
-Slides: (available soon)<br>
+Slides: https://drive.google.com/open?id=1u-7qvOtJE7id6sVZS_Qz9L2sqiaUq1pC<br>
 Video: https://www.youtube.com/watch?v=PdajwIvWodQ
 
 **Software Requirements**
